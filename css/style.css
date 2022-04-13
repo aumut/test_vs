@@ -1,0 +1,14 @@
+body {
+  background: red;
+  color: blue;
+  font-size: 25px;
+}
+
+.red {
+  color: red;
+
+}
+
+.red.blue {
+  color: blue;
+}
